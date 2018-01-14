@@ -19,6 +19,14 @@ public class Publisher {
 		this.setAuthor(new Author());
 	}
 	
+	public Publisher(int id, String title, String city, Calendar date, Author author) {
+		this.setId(id);
+		this.setTitle(title);
+		this.setCity(city);
+		this.setDate(date);
+		this.setAuthor(author);
+	}
+	
 	public static Publisher getPublisher() {
 		return oPublisher;
 	}

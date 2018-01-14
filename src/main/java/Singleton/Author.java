@@ -10,6 +10,12 @@ public class Author {
 		this.setName("");
 		this.setLanguage("");
 	}
+	
+	public Author(long id, String name, String language) {
+		this.setId(id);
+		this.setName(name);
+		this.setLanguage(language);
+	}
 
 	public long getId() {
 		return id;
