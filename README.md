@@ -31,4 +31,4 @@
     
 - De esta manera al cliente solicitará un algoritmo concreto y el padre trasladará la petición a los hijos, permitiendo que se comprima de formas diferentes.
 
-![alt text](file:///Users/Angela/git/APAW-EPC1-EF-AngelaSanchez/Strategy.png)
+![alt text](https://github.com/asancgom/APAW-ECP1-EF-AngelaSanchez/blob/develop/Strategy.png)
